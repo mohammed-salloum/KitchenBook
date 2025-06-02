@@ -32,27 +32,45 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 ### 🖥️ Web Version
 
-#### 🏠 Home Page  
-![Home](screenshots/web/home.jpg)
+#### 🏠 Home Page
+![](screenshots/web/home.jpg)
 
-#### 📖 Recipe View  
-![Recipes](screenshots/web/recipes.jpg)
+#### 📖 Recipe View
+![](screenshots/web/recipes.jpg)
 
-#### ⭐ Recipe Rating  
-![Rate](screenshots/web/rate.jpg)
+#### ⭐ Recipe Rating
+![](screenshots/web/rate.jpg)
+
+#### 🔐 Login Page
+![](screenshots/web/login.jpg)
+
+#### 📝 Signup Page
+![](screenshots/web/signup.jpg)
+
+#### 📬 Contact Page
+![](screenshots/web/contact.jpg)
 
 ---
 
 ### 📱 Mobile Version
 
-#### 🏠 Home Screen  
-![Home](screenshots/mobile/home.jpg)
+#### 🏠 Home Screen
+![](screenshots/mobile/home.jpg)
 
-#### 📖 Recipe Details  
-![Recipes](screenshots/mobile/recipes.jpg)
+#### 📖 Recipe Details
+![](screenshots/mobile/recipes.jpg)
 
-#### 📂 Categories List  
-![Categories](screenshots/mobile/categories.jpg)
+#### 📂 Categories List
+![](screenshots/mobile/categories.jpg)
+
+#### 🔐 Login Page
+![](screenshots/mobile/login.jpg)
+
+#### 📝 Signup Page
+![](screenshots/mobile/signup.jpg)
+
+#### 📬 Contact Page
+![](screenshots/mobile/contact.jpg)
 
 ---
 
