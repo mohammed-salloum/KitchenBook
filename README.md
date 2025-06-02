@@ -32,15 +32,27 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 ### 🖥️ Web Version
 
-| 🏠 Home Page                  | 📖 Recipe View                  | ⭐ Recipe Rating              |
-| ![](screenshots/web/home.jpg) | ![](screenshots/web/recipes.jpg) | ![](screenshots/web/rate.jpg) |
+#### 🏠 Home Page  
+![Home](screenshots/web/home.jpg)
+
+#### 📖 Recipe View  
+![Recipes](screenshots/web/recipes.jpg)
+
+#### ⭐ Recipe Rating  
+![Rate](screenshots/web/rate.jpg)
 
 ---
 
 ### 📱 Mobile Version
 
-| 🏠 Home Screen                   | 📖 Recipe Details                  | 📂 Categories List                    |
-| ![](screenshots/mobile/home.jpg) | ![](screenshots/mobile/recipes.jpg) | ![](screenshots/mobile/categories.jpg) |
+#### 🏠 Home Screen  
+![Home](screenshots/mobile/home.jpg)
+
+#### 📖 Recipe Details  
+![Recipes](screenshots/mobile/recipes.jpg)
+
+#### 📂 Categories List  
+![Categories](screenshots/mobile/categories.jpg)
 
 ---
 
@@ -50,4 +62,5 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 ---
 
 📌 Notes
-This project was developed as part of a university graduation project at the Faculty of Informatics Engineering. It aims to provide a real-world simulation of cross-platform recipe management systems for food lovers and cooking enthusiasts.
+
+This project was developed as a graduation project at the Faculty of Informatics Engineering. It simulates a real-world, cross-platform recipe management system tailored for cooking enthusiasts and food content creators.
