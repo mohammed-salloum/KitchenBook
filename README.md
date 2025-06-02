@@ -42,7 +42,7 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 | Home Screen | Recipe Details | User Profile |
 |-------------|----------------|--------------|
-| ![](screenshots/mobile/home.jpg) | ![](screenshots/mobile/recipes.jpg) | ![](screenshots/mobile/signup.jpg) |
+| ![](screenshots/mobile/home.jpg) | ![](screenshots/mobile/recipes.jpg) | ![](screenshots/mobile/categories.jpg) |
 
 ---
 
