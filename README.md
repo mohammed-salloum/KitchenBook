@@ -49,3 +49,7 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 ## 📁 Repository
 
 🔗 [KitchenBook — GitHub Repository](https://github.com/mohammed-salloum/KitchenBook)
+---
+
+📌 Notes
+This project was developed as part of the graduation requirements at the Faculty of Informatics Engineering, aiming to simulate real-world e-commerce platforms for vehicles.
