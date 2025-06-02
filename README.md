@@ -50,4 +50,4 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 ---
 
 📌 Notes
-This project was developed as part of the graduation requirements at the Faculty of Informatics Engineering, aiming to simulate real-world e-commerce platforms for vehicles.
+This project was developed as part of a university graduation project at the Faculty of Informatics Engineering. It aims to provide a real-world simulation of cross-platform recipe management systems for food lovers and cooking enthusiasts.
