@@ -73,3 +73,12 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 📌 Notes
 
 This project was developed as a graduation project at the Faculty of Informatics Engineering. It simulates a real-world, cross-platform recipe management system tailored for cooking enthusiasts and food content creators.
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Salloum**  
+Full-Stack Developer | Python & Django Enthusiast  
+📧 mohammed.e.salloum@gmail.com  
+🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
