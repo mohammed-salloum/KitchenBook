@@ -8,11 +8,11 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 ## 🔧 Tech Stack
 
-- 🖥️ **Web App** :  
-  - **Frontend** : HTML5, CSS3, Bootstrap 4  
-  - **Backend** : PHP, MySQL
+- 🖥️ **Web App**:  
+  - **Frontend**: HTML5, CSS3, Bootstrap 4  
+  - **Backend**: PHP, MySQL
 
-- 📱 **Mobile App** :  
+- 📱 **Mobile App**:  
   - Java, XML  
   - JSON for data exchange with backend
 
