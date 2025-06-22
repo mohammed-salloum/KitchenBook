@@ -1,6 +1,6 @@
 # 🍲 KitchenBook – Web & Mobile Application
 
-### 🎓 University Project II (PR2) – Fifth Year (January 2019)
+### 🎓 University Project II (PR2) | January 2019
 
 KitchenBook is an integrated food recipe platform consisting of a **web application** and a **mobile app**, developed as part of a university graduation project.
 
