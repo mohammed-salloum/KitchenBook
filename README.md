@@ -18,7 +18,7 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 ---
 
-## 🔍 Features
+## 🌟 Features
 
 - 🔐 Multi-level role-based access control
 
