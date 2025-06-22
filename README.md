@@ -2,17 +2,17 @@
 
 ### 🎓 University Project II (PR2) | January 2019
 
-KitchenBook is an integrated food recipe platform consisting of a **web application** and a **mobile app**, developed as part of a university graduation project.
+KitchenBook is an integrated food recipe platform consisting of a **web application** and a **mobile app**, developed as part of a university graduation project. The system offers seamless recipe management with cross-platform synchronization.
 
 ---
 
 ## 🔧 Tech Stack
 
-- 🖥️ **Web App**:  
-  - **Frontend**: HTML5, CSS3, Bootstrap 4  
-  - **Backend**: PHP, MySQL
+- 🖥️ **Web App** :  
+  - **Frontend** : HTML5, CSS3, Bootstrap 4  
+  - **Backend** : PHP, MySQL
 
-- 📱 **Mobile App**:  
+- 📱 **Mobile App** :  
   - Java, XML  
   - JSON for data exchange with backend
 
@@ -20,11 +20,10 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 ## 🌟 Key Features
 
-- Multi-level **role-based access control**
-- Sidebar advertisements for monetization
-- Detailed analytics for recipe popularity:
-  - Ratings, likes, shares, comments
-- Seamless **data synchronization** between web and mobile versions for a unified user experience
+- Multi-level **role-based access control**  
+- Sidebar advertisements for monetization  
+- Detailed analytics for recipe popularity: ratings, likes, shares, comments  
+- Seamless **data synchronization** between web and mobile for a unified user experience  
 
 ---
 
@@ -32,47 +31,45 @@ KitchenBook is an integrated food recipe platform consisting of a **web applicat
 
 ### 🖥️ Web Version
 
-#### 🏠 Home Page
-![](screenshots/web/home.jpg)
+#### 🏠 Home Page  
+![Home Page](Screenshots/web/home.jpg)
 
-#### 📖 Recipe View
-![](Screenshots/web/recipes.jpg)
+#### 📖 Recipe View  
+![Recipe View](Screenshots/web/recipes.jpg)
 
-#### ⭐ Recipe Rating
-![](Screenshots/web/rate.jpg)
+#### ⭐ Recipe Rating  
+![Recipe Rating](Screenshots/web/rate.jpg)
 
-#### 🔐 Login Page
-![](Screenshots/web/login.jpg)
+#### 🔐 Login Page  
+![Login Page](Screenshots/web/login.jpg)
 
-#### 📝 Signup Page
-![](Screenshots/web/signup.jpg)
+#### 📝 Signup Page  
+![Signup Page](Screenshots/web/signup.jpg)
 
-#### 📬 Contact Page
-![](Screenshots/web/contact.jpg)
+#### 📬 Contact Page  
+![Contact Page](Screenshots/web/contact.jpg)
 
 ---
 
 ### 📱 Mobile Version
 
-#### 🏠 Home Screen
-![](Screenshots/mobile/home.jpg)
+#### 🏠 Home Screen  
+![Home Screen](Screenshots/mobile/home.jpg)
 
-#### 📖 Recipe Details
-![](Screenshots/mobile/recipes.jpg)
+#### 📖 Recipe Details  
+![Recipe Details](Screenshots/mobile/recipes.jpg)
 
-#### 📂 Categories List
-![](Screenshots/mobile/categories.jpg)
+#### 📂 Categories List  
+![Categories List](Screenshots/mobile/categories.jpg)
 
 ---
 
 ## 📁 Repository
 
-🔗 [KitchenBook — GitHub Repository](https://github.com/mohammed-salloum/KitchenBook)
----
 
-📌 Notes
+Full source code and project files available here:
+[🔗 KitchenBook — GitHub Repository](https://github.com/mohammed-salloum/KitchenBook)
 
-This project was developed as a graduation project at the Faculty of Informatics Engineering. It simulates a real-world, cross-platform recipe management system tailored for cooking enthusiasts and food content creators.
 
 ---
 
