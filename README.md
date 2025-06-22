@@ -1,4 +1,4 @@
-# 🍲 KitchenBook – Web & Mobile Application
+# 🍲 Kitchen Book & My Kitchen – Web & Mobile Application
 
 ### 🎓 University Project II (PR2) | January 2019
 
