@@ -2,7 +2,7 @@
 
 ### 🎓 University Project II (PR2) | January 2019
 
-KitchenBook is an integrated food recipe platform consisting of a **web application** and a **mobile app**, developed as part of a university graduation project. The system offers seamless recipe management with cross-platform synchronization.
+Kitchen Book is an integrated food recipe platform consisting of a **web application** and a **mobile app**, developed as part of a university graduation project. The system offers seamless recipe management with cross-platform synchronization.
 
 ---
 
@@ -80,6 +80,7 @@ Full source code and project files available here:
 ## 👨‍💻 Author
 
 **Mohammed Salloum**  
-Full-Stack Web Developer | Django & React Specialist  
-📧 mohammed.e.salloum@gmail.com  
-🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
+Front-End React Developer  
+
+📧 Email: mohammed.e.salloum@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/mohammed-salloum-dev
